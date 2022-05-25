@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211282086351",
+    "project_id": "padigosk-chat-app",
+    "storage_bucket": "padigosk-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211282086351:android:e3a0e751f0879b9b4eaaba",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211282086351-831fkf2772vttmgps6v9k28ntbfj27pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgXDoqULouhThJTvx-kbeUWtr74XFiaLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211282086351-831fkf2772vttmgps6v9k28ntbfj27pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
